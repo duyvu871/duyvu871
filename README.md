@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **duyvu871/duyvu871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="assets/header.png">
+  <img src="logo.png">
 </p>
 
 <p align="center">
@@ -43,11 +42,18 @@ Here are some ideas to get you started:
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+
+### 📚 Github Status
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyvu871&layout=compact&theme=tokyonight&langs_count=6" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=duyvu871&show_icons=true&theme=tokyonight" height="165">
+</p>
    
 ### 🌐️ Reach me at
 
 <hr/>
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duyvu871)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017123670001)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/buidu98)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/duyvu871)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017123670001)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/buidu98)
