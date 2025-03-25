@@ -1,18 +1,6 @@
+# Hello there 👋
 
-<!--
-**duyvu871/duyvu871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
 
 <p align="center">
   <img src="logo.png">
@@ -25,35 +13,46 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=red">
 </p>
 
-### 🛠 My knowledge
+## <div align="center">About me</div>  
 
-<hr/>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+` I'm Bui An Du, a passionate software engineer with a focus on AI/ML integration, cloud architecture, and enterprise solutions. I'm a leader and innovator, driving innovation in technology and building a culture of technical excellence.
+`
 
-### 📚 Github Status
+### <div align="center">🛠 Technology Leadership</div>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyvu871&layout=compact&theme=tokyonight&langs_count=6" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=duyvu871&show_icons=true&theme=tokyonight" height="165">
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | <img height="40" src="https://skillicons.dev/icons?i=tailwind,html,css,js,ts,threejs,react,remix,nextjs,vue,vite,vitest,bootstrap,sass,figma"/> |
+| **Backend** | <img height="40" src="https://skillicons.dev/icons?i=nodejs,php,python,spring,express,nestjs,flask,fastapi,django,rabbitmq"/> |
+| **Database** | <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis,firebase,supabase,elasticsearch,dynamodb,prisma"/> |
+| **DevOps** | <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,jenkins,githubactions,nginx,prometheus"/> |
+
+### <div align="center">📊 Github Stats</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duyvu871&show_icons=true&theme=transparent" >
+  
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyvu871&layout=donut-vertical&theme=transparent&langs_count=10"> -->
 </p>
-   
-### 🌐️ Reach me at
 
-<hr/>
+### <div align="center">🌐 Connect with me</div>
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/duyvu871)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017123670001)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/buidu98)
+<p align="center">
+<a href="https://github.com/duyvu871" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100017123670001" target="_blank">
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+</a>
+<a href="https://www.instagram.com/db.mirage" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+</p>
+
+---
+
+<div align="center">
+  <a href="https://ssit.company">SSIT Joint Stock Company</a> | Leading Innovation in Technology
+</div>
+
