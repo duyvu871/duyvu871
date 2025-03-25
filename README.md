@@ -11,13 +11,13 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=red">
 </p>
 
-## <div align="center">About me</div>  
+## About me
 
 
 ` I'm Bui An Du, a passionate software engineer with a focus on AI/ML integration, cloud architecture, and enterprise solutions. I'm a leader and innovator, driving innovation in technology and building a culture of technical excellence.
 `
 
-### <div align="center">🛠 Technology Leadership</div>
+### 🛠 Technology Leadership
 
 | Category | Technologies |
 |----------|-------------|
@@ -26,17 +26,17 @@
 | **Database** | <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis,firebase,supabase,elasticsearch,dynamodb,prisma"/> |
 | **DevOps** | <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,jenkins,githubactions,nginx,prometheus"/> |
 
-### <div align="center">📊 Github Stats</div>
+### 📊 Github Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=duyvu871&show_icons=true&theme=transparent" >
   
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyvu871&layout=donut-vertical&theme=transparent&langs_count=10"> -->
 </p>
 
-### <div align="center">🌐 Connect with me</div>
+### 🌐 Connect with me
 
-<p align="center">
+<p>
 <a href="https://github.com/duyvu871" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
@@ -50,7 +50,7 @@
 
 ---
 
-<div align="center">
+<div>
   <a href="https://ssit.company">SSIT Joint Stock Company</a> | Leading Innovation in Technology
 </div>
 
