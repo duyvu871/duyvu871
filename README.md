@@ -48,8 +48,6 @@
 </a>
 </p>
 
----
-
 <div>
   <a href="https://ssit.company">SSIT Joint Stock Company</a> | Leading Innovation in Technology
 </div>
